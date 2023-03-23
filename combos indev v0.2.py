@@ -21,3 +21,4 @@ combos = {  # made the dictionary
 }
 
 eg.msgbox(combos)
+print("combos are cool")
